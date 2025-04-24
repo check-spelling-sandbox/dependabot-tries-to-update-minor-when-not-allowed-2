@@ -1,0 +1,11 @@
+{
+    "name": "test-project",
+    "version": "1.0.0",
+    "dependencies": {
+        "jasmine-core": "~4.5.0"
+    },
+    "scripts": {
+        "test": "jasmine"
+    },
+    "packageManager": "yarn@1.22.1"
+}
